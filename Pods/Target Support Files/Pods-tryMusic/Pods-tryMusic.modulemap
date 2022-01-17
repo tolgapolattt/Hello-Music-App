@@ -1,0 +1,6 @@
+framework module Pods_tryMusic {
+  umbrella header "Pods-tryMusic-umbrella.h"
+
+  export *
+  module * { export * }
+}
